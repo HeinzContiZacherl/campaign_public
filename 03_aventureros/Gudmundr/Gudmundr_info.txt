@@ -1,0 +1,26 @@
+ESTADO: 
+
+ESTADÍSTICAS
+- AC: 14.
+- PP: 11.
+- Fortaleza: destreza.
+- Debilidad: fuerza, constitución.
+
+COMPORTAMIENTO
+- Alineación: caótico neutral.
+- Personalidad: He aprendido una lección de cada una de las situaciones que he observado en la naturaleza.
+- Ideales: El mundo natural es más importante que las civilizaciones.
+- Vínculos: Soy el último de mi tribu y debo asegurar que sus leyendas vivan.
+- Defectos: La supervivencia del más fuerte es una ley natural. No salvaré a quien no pueda encargarse de sí mismo.
+
+OTROS
+- Edad: 
+- Idiomas: común, elfo, enano. 
+- Facciones / Rangos: 
+
+TRASFONDO
+Guðmundur nació en una civilización bajo el mar cercana a las islas Moonshae. Desde chico no sentía interés por meterse en los asuntos de otros, sino solo por cuidar de sí mismo. Esto lo llevó a interesarse por la supervivencia y decidió volverse un explorador. Entrenó y llegó a ser el mejor de su ciudad, pero él quería más y fue así que decidió dejar su tierra natal e ir en busca de aventuras. Mas pronto descubriría que no a todos les agradaban los de su estirpe. Guðmundur decidió entonces pasar más tiempo en los bosques y fue ahí cuando se encontró con una bruja élfica. Ella lo aceptó sin cuestionar su apariencia y le dijo que necesitaba ayuda. Necesitaba que buscara a alguien, un chico perdido hacía ya tanto tiempo que nadie lo recordaba. Para ayudarlo en su búsqueda le otorgó una peculiar criatura que lo acompañaría y ayudaría en sus recorridos. Fue así que Guðmundur consiguió a su fiel acompañante y una misión que más temprano que tarde debería cumplir.
+
+REFLEXIONES
+
+

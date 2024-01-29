@@ -1,0 +1,10 @@
+ESTADO: vivos.
+
+INFORMACIÓN
+Thon, Mir y Edelbur son tres tontos y amigos guardias de Neverwinter, siempre hacen las rondas de guardia juntos para aprovechar el tiempo conversando sobre historias pasadas. Poca atención prestan a su entorno cuando están de guardia y no son para nada listos.  
+
+Thon: de mirada seria y aspecto un poco más cuidado, flaco, estatura promedio, cabello corto de color negro y barba incipiente 
+
+Mir: de mirada perdida en el horizonte, casi como si su intelecto le permimtiera ser una persona reflexiva. Contextura fuerte, cabellos rubio claro, rubios y largos bigotes. Es el más alto de los tres. 
+
+Edelbur: pelado, sin vello facial, cachetes regordetes, gordo y bajito.

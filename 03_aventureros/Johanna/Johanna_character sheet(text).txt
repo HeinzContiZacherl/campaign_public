@@ -1,0 +1,60 @@
+Armor: Light armor, medium armor, shields
+Weapons: Simple weapons, martial weapons
+Tools: Piano
+Saving Throws: Strength, Constitution
+Skills: Animal Handling, Intimidation, Athletics and Survival
+Languagues: Draconic,Common and Elf
+Ball and chain two handaxes, an explorer's pack and four javelins, medium armor and Wood Shield Baston, trampa de caza, la piel de un lobo, ropa de viajero, una bolsa de cinturon que contiene 10mo and two rings as totems 
+
+RAGE
+In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action. While raging, you gain the following benefits if: you aren't wearing heavy armor: Vou have advantage on Strength checks and Strength saving throws. When you make a melee weapon attack using Strength, you gain a bonus to the damage roll thatincreases as you gain levels as a barbarian, as shown in the Rage Damage column of the Barbarian table. You have resistance to bludgeoning, piercing, and slashing damage. If you are able to cast spells, you can't cast them or concentrate on them while raging. Your rage lasts for 1 minute. lt ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. Vou can also end your rage on your turn as a bonus action. Once you have raged the number of times shown for your barbarian leveI in the Rages column of the Barbarian table, you must finish a long rest before you can rage again.
+
+UNARMORED DEFENSE
+While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Constitution modifier. You can use a shield and still gain this benefit.
+
+RECKLESS ATTACK
+Starting at 2nd levei, you can throw aside ali concern for defense to attack with fierce desperation. When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on melee weapon attack rolls using Strength during this turn, but attack rolls against you have advantage until your next turno
+
+DANGER SENSE
+At 2nd levei, you gain an uncanny sense of when Things nearby aren't as they should be, giving you an Edge when you dodge away from danger. You have advantage on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can't be blinded, deafened, or incapacitated.
+
+EXTRA ATTACK
+Beginning at 5th levei, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+FAST MOVEMENT
+Starting at 5th levei, your speed increases by 10 feet while you aren't wearing heavy armor.
+
+SPIRIT SEEKER
+Yours is a path that seeks altunement with the natural world. giving you a kinship with beasts. At 3rd levei when you adopt this path. you gain the ability to cast the beast sense and speak with animaIs spells. but only as rituais, as deseribcd in chapter 10.
+
+Bear
+While raging. you have resistance to ali Damage except psychic damage. The spirit of the bear makes you tough enough to stand up to any punishment.
+
+ASPECT OF THE BEAST
+At 6th leveI. you gain a magical benefit based on the totem animal of your choice. You can choose the same animal you selected at 3rd levei or a different one. Bear: You gain the might of a bear. Your carrying capacity (including maximum load and maximum lift) is doubled, and you have Advantage on Strength checks made to push, pull. lift, or break ohjects.
+
+Breath Weapon
+You can use your action to exhale destructive energy. Your draconic ancestry determines the size, shape. and damage type of the exhalation. When you use your breath weapon, each creature in the area of the exhalation must make a saving throw. the type of which is determined by your draconic ancestry. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 damage on a failed save. and half as much damage on a successful one. The Damage increases to 3d6 at 6th level. 4d6 at 11th leveI, and 5d6 at 16th leveI. After you use your breath weapon, you can't use it again until you complete a short or long resl.
+
+Damage Resistance.
+You have resistance to the damage type associated with your draconic ancestry.
+
+DRACONIC ANCESTRY
+Dragon Damage Type Brealh Weapon
+Black  Acid   5 by 30 fI. line (Dex. save)
+
+BEAST SENSE
+2nd-level divination (ritual)
+Casting Time: 1 action
+Range: Touch
+Components: s
+Duration: Concentration, up to 1 hour
+You touch a willing beast. For the duration of the spell, you can use your action to see through the beast's eyes and hear what it hears, and continue to do so until you use your action to return to your normal senses. While perceiving through the beast's senses, you gain the benefits of any special senses possessed by that creature, though you are blinded and deafened to your own surroundings.
+
+SPEAK WITH ANIMALS
+1st-leveI divination (ritual)
+Casting Time: I action
+Range: Self
+Components: V, S
+Duration: 10 minutes
+You gain the ability to comprehend and verbally communicate with beasts for the duration. The knowledge and awareness of many beasts is limited by their intelligence, but at minimum, beasts can give you Information about nearby locations and monsters, inc1uding whatever they can perceive or have perceived within the past day. Vou mlght be able to persuade a beast to perform a small favor for you, at the DM's discretion.

@@ -1,0 +1,26 @@
+ESTADO: muerto.
+
+ESTADÍSTICAS
+- AC: 15.
+- PP: 11.
+- Fortaleza: carisma, constitución.
+- Debilidad: fuerza.
+
+COMPORTAMIENTO
+- Alineación: neutral bueno.
+- Personalidad: Juzgo a las personas por sus actos.
+- Ideales: Sinceridad.
+- Vínculos: Protegeré a aquellos que no puedan protegerse.
+- Defectos: No puedo volver a casa.
+
+OTROS
+- Edad: 
+- Idiomas: común, dracónico, gigante, primordial.
+- Facciones / Rangos: 
+
+TRASFONDO
+Heredero del ojo de Zanar (cristal foco arcano que fue pasado de mi maestro, según el creía pertenecía a un gigante de la tormenta), aprendiz de shaman del pantano. Me hecharon de mi pantano cuando no pude curar heridas fatales a un guerrero, asi que emprendí mi aventura y me olvidé de ese lugar.
+
+REFLEXIONES
+
+

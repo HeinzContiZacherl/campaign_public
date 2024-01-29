@@ -1,0 +1,25 @@
+ESTADO: viva.
+
+ESTADÍSTICAS
+- AC: 
+- PP: 7.
+- Fortaleza: fuerza.
+- Debilidad: carisma, sabiduría, destreza.
+
+COMPORTAMIENTO
+- Alineación: 
+- Personalidad: 
+- Ideales:
+- Vínculos:
+- Defectos:
+
+OTROS
+- Edad: 30/80.
+- Idiomas: dracónico, común, élfico.
+- Facciones / Rangos: 
+
+TRASFONDO
+
+REFLEXIONES
+
+

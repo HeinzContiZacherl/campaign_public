@@ -1,0 +1,25 @@
+ESTADO: 
+
+ESTADÍSTICAS
+- AC: 
+- PP: 
+- Fortaleza: 
+- Debilidad: 
+
+COMPORTAMIENTO
+- Alineación: 
+- Personalidad: 
+- Ideales:
+- Vínculos:
+- Defectos:
+
+OTROS
+- Edad: 
+- Idiomas: 
+- Facciones / Rangos: 
+
+TRASFONDO
+
+REFLEXIONES
+
+
