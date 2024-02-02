@@ -1,5 +1,5 @@
 1. LOW NATURAL HEALING
-Al final de un descanso largo no se recuperan puntos de golpe sino que se puden usar dados de golpe al final del mismo igual que con los descansos cortos.
+Al final de un descanso largo no se recuperan puntos de golpe sino que se pueden usar dados de golpe al final del mismo igual que con los descansos cortos.
 
 2. HEALER´S KIT DEPENDENCY
 Para poder usar dados de golpe luego de un descanso algún miembro del grupo tiene que utilizar un kit de primerios auxilios para ayudar a vendar y curar las heridas de sus aliados.
@@ -11,7 +11,6 @@ Se hace una tirada de salvación de muerte por minuto.
 El nivel 6 representa un avance considerable para un aventurero. Aventureros de niveles superiores son realmente destacados y no abundan por doquier. A partir del nivel 6 todos los personajes nuevos que se creen serán nivel 6. Ej.: Si tu personaje es nivel 12 y muere y te creás uno nuevo, el nuevo será nivel 6.
 
 5. COMBATE
-- Al comienzo de cada ronda, el grupo dispone de 1 minuto para discutir grupalmente tácticas. Durante la ronda no se permiten discusiones grupales. 
+- Al comienzo de cada ronda, el grupo dispone de 1 minuto para discutir grupalmente tácticas. Durante la ronda no se permiten discusiones grupales.
 - Cada jugador dispone de 10 segundos para declarar lo que hace en su turno o su turno es saltado.
 - DM dispone de 10 segundos por grupo de iniciativa o el turno de ese grupo es saltado.
-
